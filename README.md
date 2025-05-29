@@ -59,3 +59,8 @@ A média salarial mensal está em R$ 6.927,51.
 Área com maior número de colaboradores é cientista de dados.
 
 Apenas 28,43% dos funcionários estão disponíveis para fazer hora extra, o que pode impactar demandas urgentes.
+
+👩‍💻 Autor
+---
+Amanda Braga
+LinkedIn([https://www.linkedin.com/in/amandadesouzabraga/])
